@@ -1,2 +1,2 @@
-export { TextBlock } from './TextBlock';
-export type { TextBlockProps } from './TextBlock';
+export { TextBlock } from "./TextBlock";
+export type { TextBlockProps } from "./TextBlock";
